@@ -1,3 +1,9 @@
 *.hdf5
 *.txt
 *.out
+*.mp4
+restart*
+*param*
+*.pdf
+*.pkl
+*InterStellar*
