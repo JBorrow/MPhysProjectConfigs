@@ -9,5 +9,5 @@
 
 module load gnu_comp/c4 openmpi gsl hdf5 fftw/2.1.5
 
-mpirun -n 72 ./InterStellarGadget/code/Gadget2 ./pfile.param
+mpirun -n 72 ./InterStellarGadget/code/Gadget2 ./pfile.param 1
 
